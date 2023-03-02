@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  background-color: white;
+  width: 18rem;
+  height: 24rem;
+}
+
+body {
+  background-color: green;
+}
+
+/*
+Hearts, Spades, Clubs and Diamonds.
+♦ ♥ ♠ ♣
+2 to 10, King, Queen, Jack or Ace, (no joker)./*
+*/
